@@ -1,0 +1,11 @@
+---
+:id: 95852143
+:submitters:
+- :name: Spencer Mateega
+  :email: mateega@wharton.upenn.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2021-10-24 17:17:27.313626000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2021-10-24 10:17:27.313626000 Z
+:status: processed
